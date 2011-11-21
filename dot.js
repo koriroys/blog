@@ -14,7 +14,7 @@ $(document).ready(function() {
 	var border = paper.rect(0, 0, paperWidth, paperHeight).attr({'stroke-width': 1});
 	
 	// Template for the dots
-	var dot = paper.circle(100,100,0).attr({fill: "#000"});
+	var dot = paper.circle(paperWidth/2, paperHeight/2, 0).attr({fill: "#000"});
 	
 	// Making the button work
 	$(":button").click(function(){
@@ -27,6 +27,6 @@ $(document).ready(function() {
 	var randomNumberX = randRange(maxRadius + border.attr('stroke-width'), paperWidth - maxRadius - border.attr('stroke-width')); 
 	var randomNumberY = randRange(maxRadius + border.attr('stroke-width'), paperHeight - maxRadius- border.attr('stroke-width'));
 	
-	dotClone.animate({cx:randomNumberX, cy: randomNumberY, r:randomNumberR}, 1);	
+	dotClone.animate({cx:randomNumberX, cy: randomNumberY, r:randomNumberR}, 1000);	
 	})
 });
