@@ -1,6 +1,0 @@
----
-layout: post
-title: Blank example title
----
-
-Blank for now

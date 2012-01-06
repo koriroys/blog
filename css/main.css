@@ -1,0 +1,41 @@
+@charset "UTF-8"
+
+/* =main --------------*/
+
+body > * {
+  clear: both;
+  margin: 0 auto;
+  width: 700px;
+  
+}
+
+body {
+  margin: 20px;
+/*  color: #0F3;*/
+/*  background-color:#000;*/
+  font-family: sans-serif;
+}
+
+a:link {
+/*  color: #FF3;*/
+}
+
+.header {
+/*  background-color:#CFC;*/
+/*  border-top: 4px solid #ddd;*/
+  border-bottom: 4px solid #0F0;
+}
+
+p {
+/*  font-size:2px;*/
+}
+
+.header {
+/*  float: right;*/
+}
+
+.nav li {
+  display: inline;
+  margin-right:2px;
+  
+}
