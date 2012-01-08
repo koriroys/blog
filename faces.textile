@@ -5,6 +5,10 @@ title: Faces
 
 <!-- for filename in *.png; do echo \!/images/${filename}\(${filename/_/ }\)\!; done >> ~/Desktop/names.txt -->
 
+*Version 0.0.1:* I plan to improve this rapidly, but I wanted to get something out there quick then iterate. BTW, if any of you are uncomfortable having your glowing mugs up here, just mail me and opt out. (firstname@thissite)
+
+*Instructions:* Try to guess who each Code Academy peep is, then mouse over their image to find out! (Hint, they are in alphabetical order. I know, so tough right?)
+
 !/images/Abhi_Pillai.png(Abhi Pillai)!
 !/images/Adam_Lupu.png(Adam Lupu)!
 !/images/Adam_Mark.png(Adam Mark)!
