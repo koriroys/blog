@@ -17,7 +17,7 @@ $(document).ready(function() {
   var dot = paper.circle(paperWidth/2, paperHeight/2, 0).attr({fill: "#000"});
 
   // Making the button work
-  $("#button1").click(function(){
+  $(":button").click(function(){
     var dotClone = dot.clone();
 
 
