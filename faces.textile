@@ -3,64 +3,64 @@ layout: default
 title: Faces
 ---
 
-<!-- for filename in *.png; do echo \!/images/${filename}\(${filename/_/ }\)\!; done >> ~/Desktop/names.txt -->
+<!-- for filename in *.jpg; do echo \!/images/${filename}\(${filename/_/ }\)\!; done >> ~/Desktop/names.txt -->
 
 *Version 0.0.1:* I plan to improve this rapidly, but I wanted to get something out there quick then iterate. BTW, if any of you are uncomfortable having your glowing mugs up here, just mail me and opt out. (firstname@thissite)
 
 *Instructions:* Try to guess who each Code Academy peep is, then mouse over their image to find out! (Hint, they are in alphabetical order. I know, so tough right?)
 
-!/images/Abhi_Pillai.png(Abhi Pillai)!
-!/images/Adam_Lupu.png(Adam Lupu)!
-!/images/Adam_Mark.png(Adam Mark)!
-!/images/Ansh_Day.png(Ansh Day)!
-!/images/Arvin_Dang.png(Arvin Dang)!
-!/images/Ben_Block.png(Ben Block)!
-!/images/Bryon_Finke.png(Bryon Finke)!
-!/images/Charlie_Thomason.png(Charlie Thomason)!
-!/images/Chiara_Piccionotti.png(Chiara Piccionotti)!
-!/images/Chris_Courtney.png(Chris Courtney)!
-!/images/Dan_Lavin.png(Dan Lavin)!
-!/images/Dave_Levine.png(Dave Levine)!
-!/images/David_Pardy.png(David Pardy)!
-!/images/Eric_MacAdie.png(Eric MacAdie)!
-!/images/Fabian_Jahr.png(Fabian Jahr)!
-!/images/Greg_Cardoni.png(Greg Cardoni)!
-!/images/Jaret_Manuel.png(Jaret Manuel)!
-!/images/Jeff_Ringgenberg.png(Jeff Ringgenberg)!
-!/images/Jerome_Manuel.png(Jerome Manuel)!
-!/images/Jim_Challenger.png(Jim Challenger)!
-!/images/Jimmy_Odom.png(Jimmy Odom)!
-!/images/John_Zurbach.png(John Zurbach)!
-!/images/Jordan_Dalton.png(Jordan Dalton)!
-!/images/Juan-Carlos_Lugo.png(Juan-Carlos Lugo)!
-!/images/Justin_Brown.png(Justin Brown)!
-!/images/Kathryn_Ironside.png(Kathryn Ironside)!
-!/images/Keith_Mackey.png(Keith Mackey)!
-!/images/Kelsey_Mok.png(Kelsey Mok)!
-!/images/Kevin_Hoffman.png(Kevin Hoffman)!
-!/images/Kori_Roys.png(Kori Roys)!
-!/images/Marcel_Munoz.png(Marcel Munoz)!
-!/images/Matthew_Krisiloff.png(Matthew Krisiloff)!
-!/images/Nate_Kroll.png(Nate Kroll)!
-!/images/Nate_Lassiter.png(Nate Lassiter)!
-!/images/Nick_Shank.png(Nick Shank)!
-!/images/Patrick_Carolan.png(Patrick Carolan)!
-!/images/Peter_Jabbour.png(Peter Jabbour)!
-!/images/Robert_Milner.png(Robert Milner)!
-!/images/Robert_Stevenson.png(Robert Stevenson)!
-!/images/Ryan_Coon.png(Ryan Coon)!
-!/images/Ryan_Curtin.png(Ryan Curtin)!
-!/images/Ryan_Verner.png(Ryan Verner)!
-!/images/Shirlee_Berman.png(Shirlee Berman)!
-!/images/Spence_Davenport.png(Spence Davenport)!
-!/images/Steve_Benjamins.png(Steve Benjamins)!
-!/images/Trey_Springer.png(Trey Springer)!
-!/images/Tim_O'Meara.png(Tim O'Meara)!
-!/images/Tom_Holland.png(Tom Holland)!
-!/images/Tomas_Ordoñez.png(Tomas Ordoñez)!
-!/images/Tracy_Lucas.png(Tracy Lucas)!
-!/images/Travis_Fonvielle.png(Travis Fonvielle)!
-!/images/Zeh_Xing_Xiong.png(Zeh Xing Xiong)!
+!/images/Abhi_Pillai.jpg(Abhi Pillai)!
+!/images/Adam_Lupu.jpg(Adam Lupu)!
+!/images/Adam_Mark.jpg(Adam Mark)!
+!/images/Ansh_Day.jpg(Ansh Day)!
+!/images/Arvin_Dang.jpg(Arvin Dang)!
+!/images/Ben_Block.jpg(Ben Block)!
+!/images/Bryon_Finke.jpg(Bryon Finke)!
+!/images/Charlie_Thomason.jpg(Charlie Thomason)!
+!/images/Chiara_Piccionotti.jpg(Chiara Piccionotti)!
+!/images/Chris_Courtney.jpg(Chris Courtney)!
+!/images/Dan_Lavin.jpg(Dan Lavin)!
+!/images/Dave_Levine.jpg(Dave Levine)!
+!/images/David_Pardy.jpg(David Pardy)!
+!/images/Eric_MacAdie.jpg(Eric MacAdie)!
+!/images/Fabian_Jahr.jpg(Fabian Jahr)!
+!/images/Greg_Cardoni.jpg(Greg Cardoni)!
+!/images/Jaret_Manuel.jpg(Jaret Manuel)!
+!/images/Jeff_Ringgenberg.jpg(Jeff Ringgenberg)!
+!/images/Jerome_Manuel.jpg(Jerome Manuel)!
+!/images/Jim_Challenger.jpg(Jim Challenger)!
+!/images/Jimmy_Odom.jpg(Jimmy Odom)!
+!/images/John_Zurbach.jpg(John Zurbach)!
+!/images/Jordan_Dalton.jpg(Jordan Dalton)!
+!/images/Juan-Carlos_Lugo.jpg(Juan-Carlos Lugo)!
+!/images/Justin_Brown.jpg(Justin Brown)!
+!/images/Kathryn_Ironside.jpg(Kathryn Ironside)!
+!/images/Keith_Mackey.jpg(Keith Mackey)!
+!/images/Kelsey_Mok.jpg(Kelsey Mok)!
+!/images/Kevin_Hoffman.jpg(Kevin Hoffman)!
+!/images/Kori_Roys.jpg(Kori Roys)!
+!/images/Marcel_Munoz.jpg(Marcel Munoz)!
+!/images/Matthew_Krisiloff.jpg(Matthew Krisiloff)!
+!/images/Nate_Kroll.jpg(Nate Kroll)!
+!/images/Nate_Lassiter.jpg(Nate Lassiter)!
+!/images/Nick_Shank.jpg(Nick Shank)!
+!/images/Patrick_Carolan.jpg(Patrick Carolan)!
+!/images/Peter_Jabbour.jpg(Peter Jabbour)!
+!/images/Robert_Milner.jpg(Robert Milner)!
+!/images/Robert_Stevenson.jpg(Robert Stevenson)!
+!/images/Ryan_Coon.jpg(Ryan Coon)!
+!/images/Ryan_Curtin.jpg(Ryan Curtin)!
+!/images/Ryan_Verner.jpg(Ryan Verner)!
+!/images/Shirlee_Berman.jpg(Shirlee Berman)!
+!/images/Spence_Davenport.jpg(Spence Davenport)!
+!/images/Steve_Benjamins.jpg(Steve Benjamins)!
+!/images/Trey_Springer.jpg(Trey Springer)!
+!/images/Tim_O'Meara.jpg(Tim O'Meara)!
+!/images/Tom_Holland.jpg(Tom Holland)!
+!/images/Tomas_Ordonez.jpg(Tomas Ordoñez)!
+!/images/Tracy_Lucas.jpg(Tracy Lucas)!
+!/images/Travis_Fonvielle.jpg(Travis Fonvielle)!
+!/images/Zeh_Xing_Xiong.jpg(Zeh Xing Xiong)!
 
 <!-- Hello
 <p>Hello?!?</p> -->
