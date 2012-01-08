@@ -54,7 +54,7 @@ title: Faces
 !/images/Shirlee_Berman.png(Shirlee Berman)!
 !/images/Spence_Davenport.png(Spence Davenport)!
 !/images/Steve_Benjamins.png(Steve Benjamins)!
-!/images/Tery_Springer.png(Tery Springer)!
+!/images/Trey_Springer.png(Trey Springer)!
 !/images/Tim_O'Meara.png(Tim O'Meara)!
 !/images/Tom_Holland.png(Tom Holland)!
 !/images/Tomas_Ordoñez.png(Tomas Ordoñez)!
