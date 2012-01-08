@@ -60,7 +60,7 @@ title: Faces
 !/images/Tomas_Ordoñez.png(Tomas Ordoñez)!
 !/images/Tracy_Lucas.png(Tracy Lucas)!
 !/images/Travis_Fonvielle.png(Travis Fonvielle)!
-!/images/Zeh_Xing_Xiong.png(Zeh Xing_Xiong)!
+!/images/Zeh_Xing_Xiong.png(Zeh Xing Xiong)!
 
 <!-- Hello
 <p>Hello?!?</p> -->
