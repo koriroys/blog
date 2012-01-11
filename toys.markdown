@@ -10,14 +10,6 @@ class: projects
 	</dd>
 	
 	<dt>Raphael Sample 2</dt>
-	<dd><p> <a href="/raphael_demos/dot.html">A bunch of flying dots</a></p>
-	</dd>
-	
-	<dt>Raphael Sample 3</dt>
-	<dd><p> <a href="/raphael_demos/rectangle.html">A rectangle</a></p>
-	</dd>
-	
-	<dt>Raphael Sample 4</dt>
 	<dd><p> <a href="/raphael_demos/trojan_victory.html">Team banner</a></p>
 	</dd>
 </dl>
