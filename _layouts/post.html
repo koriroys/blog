@@ -3,6 +3,6 @@ layout: default
 ---
 
 <div id="post">
- <a href="{{ site.url }}{{ page.url }}" rel="bookmark permalink" title="Permanent link to this post">{{ page.title }}</a>
+ {{ page.date | date_to_string }} &raquo; <a href="{{ site.url }}{{ page.url }}" rel="bookmark permalink" title="Permanent link to this post">{{ page.title }}</a>
 {{ content }}
 </div>
