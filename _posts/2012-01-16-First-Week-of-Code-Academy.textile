@@ -1,0 +1,11 @@
+---
+layout: post
+---
+
+Today I reflect on the first week of Code Academy Chicago - Class of Winter 2012. Seven days has brought me new experiences, new faces, new friends, new locations, new ideas, new ways of thinking, new languages, new practices, even new phrases (I'm looking at you Jimmy). Is Code Academy what I expected going in? In some ways, yes, but in most ways, it's way more.
+
+Did I think Code Academy would be akin to learning Matrix style, ala a plug straight to my brain, and me sitting up 5 seconds later saying "I know Code-Fu?" No, I didn't think that. I may have wished it, but that was not my expectation. I did expect to be with a bunch of people with the, "Get out of the way or get run over," attitude, but that also has not been the case. Instead what I've found is a group of people dedicated to improving themselves and helping others, while learning to code.
+ 
+Some of them want the skills to build the dreams of businesses they have locked in their heads. They are the "ones born poets, learning to be craftsmen":http://www.brainyquote.com/quotes/quotes/e/emilezola132256.html. Others have programming skills and want to pick up a new language/framework. They are the ones born willing, learning how to be ready. Some are here purely to learn something new. They are the ones born curious, learning just for the pure joy of it. Where do I fit in to all of this?
+ 
+I am all three. I am here to learn how to build. I am here to learn craftsmanship, best practices, and the latest technologies. I am willing. I am becoming ready. I am here to learn something new. I am curious. I am joyful. I am "Code Academy":http://www.codeacademy.org. I go hard in the paint.
