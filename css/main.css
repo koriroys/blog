@@ -16,6 +16,11 @@ body {
   font-family: sans-serif;
 }
 
+.container {
+  width: 800px;
+  margin: auto;
+}
+
 a:link {
 /*  color: #FF3;*/
 }
@@ -23,8 +28,15 @@ a:link {
 .header {
 /*  background-color:#CFC;*/
 /*  border-top: 4px solid #ddd;*/
+  
+  
+}
+
+.main {
+  border-top: 4px solid #EEE;
   border-bottom: 4px solid #EEE;
 }
+
 
 p {
 /*  font-size:2px;*/
@@ -38,4 +50,8 @@ p {
   display: inline;
   margin-right:2px;
   
+}
+
+.footer {
+  padding-top: 10px;
 }
