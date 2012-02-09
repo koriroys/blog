@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 Week Two and Three of Code Academy
 
 These weeks brought new revelations. The most revealing, um, revelation: pairing with someone way more advanced than myself is the fastest and most fun way for me to learn something new. Plus I pick up lots of interesting tips and tricks I wouldn't find in a tutorial or a book. Related: pairing with someone not as advanced as myself is great because it forces me to explain concepts in simple terms, and if I can't do that, I know I need to review that concept.
