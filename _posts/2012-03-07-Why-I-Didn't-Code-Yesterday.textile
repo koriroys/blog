@@ -42,7 +42,7 @@ Then I went over to "Trunk Club":trunkclub.com to meet with John Tucker, who I m
 
 Before leaving TC I thanked John, and also met another Mike, and Neil, and another dev, but very briefly, and it kills me that I've now forgotten his name. I'm usually really good with names. I've made the effort to get good at that, because the most important thing you can say to a person is 'Hey, I like you enough that I bothered to remember your name.' Many people don't do that. Shame really. It's the simple things.
 
-After TC I wandered over to the Chicago Ruby meetup at Thoughtworks, to hear about breaking apart your app and having the pieces talk to each other through an API. Didn't get so much out of that. Well, aside from free pizza and a cookie. Heading over to Elephant and Castle afterwards, I met "Ross Heflin":tablexi.com. His take on the industry after 5+ years in it (and 5 beers) was brutally honest. I think I said 5 words and he talked for 3 hours. Awesome, just the way I like it. If you're mouth is open, you probably aren't learning.
+After TC I wandered over to the Chicago Ruby meetup at Thoughtworks, to hear about breaking apart your app and having the pieces talk to each other through an API. Didn't get so much out of that. Well, aside from free pizza and a cookie. Heading over to Elephant and Castle afterwards, I met "Ross Heflin":http://tablexi.com. His take on the industry after 5+ years in it (and 5 beers) was brutally honest. I think I said 5 words and he talked for 3 hours. Awesome, just the way I like it. If you're mouth is open, you probably aren't learning.
 
 Home by midnight, too jazzed to sleep. Up til 2am reading Clean Code and The Rspec Book. Up at 7am today to go to class and catch everything I missed yesterday. 
 
