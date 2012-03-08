@@ -5,4 +5,6 @@ title: About
 
 !(image)http://www.gravatar.com/avatar/8498e0303c78c6441d73314629a44fb0?s=200(Kori Roys)!
 
-My name at this point should be pretty obvious. I'm an aspiring web developer (not a designer, can you tell?) learning Ruby on Rails. I live in Chicago, and can be easily bribed with a bowl of tortilla chips and some salsa. And/or root beer.
+My name at this point should be pretty obvious. I'm an aspiring web developer (not a designer, can you tell?) learning Ruby on Rails at Code Academy. I live in Chicago, and can be easily bribed with a bowl of tortilla chips and some salsa. And beer. The darker the better.
+
+"LinkedIn":http://www.linkedin.com/in/koriroys
