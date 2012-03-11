@@ -1,0 +1,15 @@
+---
+layout: post
+---
+
+Mike from Code Academy sent out a handbook today with pictures of all the students, along with names and what classes we are signed up for. I've met a little less than half of them so far, so it's still going to be interesting putting names to faces. I want to know everybody going in, and get in the habit of building stuff. So I combined these two ideas and made a quick and dirty flash card site.
+
+Now that I have a jumping off point, I want to try to convert it to a Rails app to learn how to pull pictures from a database (or even if I should), and do flash alerts when the user clicks the wrong answer. 
+
+I present "version 0.0.1":/faces.html of my faces flashcards for Code Academy. Hey fellow CA peeps, hope this is helpful to you!
+
+<!-- This site/blog look absolutely horrible. Partially because I have no clue how to design a website. Mostly because rather than keep this thing wrapped up on my machine, I want to get it out there looking terrible and be motivated to fix it as I go. Also, I want to build it myself, rather than doing lots and copying and pasting from other people. -->
+
+<!-- I figured out how to host a site on github a few weeks back, but decided that with "Code Academy":http://www.codeacademy.org looming near, I wanted a place where I could blog. But I wanted to build the blog myself. Since I have not built much of anything (useful) before, the going is pretty slow. But each little victory makes the glacial pace worth it. I figure just hack something together, learn a bunch, then do it right (and 90% faster) then second time around. -->
+
+<!-- A few details about the site: This is a site hosted by "Github Pages":http://pages.github.com. When I push to github it is run through Jekykll, and a static site gets spit out the other end. I am oversimplifying I know, but so far that is my understanding of it. -->

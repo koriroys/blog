@@ -1,0 +1,5 @@
+---
+layout: post
+---
+
+Do not use 'type' as a column name in your Rails models. It breaks shit.

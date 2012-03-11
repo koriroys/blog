@@ -1,0 +1,51 @@
+---
+layout: post
+---
+
+NOTE: Obligatory blog meme photograph moved to bottom of page.
+
+I'm 9 weeks in to Code Academy, and things are accelerating. Heck, I'm not even graduated yet, but already I'm tutoring another guy in Ruby and Rails, and doing side projects and little scripts for another client. I can't say that eight weeks in to college I was already getting paid for what I was doing, that's for damn sure.
+
+Yesterday I went to Code and Coffee, and met a guy I really hope ends up doing Code Academy: "Ben Downy":http://twitter.com/BND5k. I think he'd do well. Also bumped into "Corey Haines":http://twitter.com/coreyhaines, though I'd have liked a little longer to chat. I spotted "Dave Hoover":http://twitter.com/redsquirrel and asked him if he'd come see me for 10 minutes so I could ask him some questions about what to do/not do in a mentorship role. He promised he would.
+
+I sat down with "Geoff Massanek":http://twitter.com/gmassanek, a Code Academy alum and new Groupon hire, who gave me a 45 minute intro to vim, along with two pages of notes on vim patterns as well as a kata to work through. Thanks Geoff!
+
+However, that wily dhh managed to escape Starbucks without seeing me, so I pinged his email because I forgot to sign up for "Geekfest":http://twitter.com/geekfest anyways. He got back to me, added me to the list, and told me to come find him after Geekfest. Also ran into Jil (one l, I remember that), who I haven't seen since high school. Turns out she likes coffee.
+
+Then I wandered over to Code Academy for two hours to catch the end of "John McCaffrey's":http://twitter.com/j_mccaffrey talk to the Tues/Thurs dev class, and hopped the bus with him over to Geekfest at the Groupon building. The talk by "Jonathan Soeder":http://benchprep.com/about about using backbone.js to develop webapps was a bit beyond my comprehension at the moment, but it's good to see what other people are working on, partially to learn about it, but mostly to stay humble. Also bumped into Jil again. Turns out she works at Groupon. Universe, you never cease to surprise.
+
+That wily dhh nearly escaped again, but luckily he got pulled into a convo and couldn't escape. He sat down with me, gave me a few pointers on what to focus on as a tutor to help your student get the most out of the experience. The highlights:
+
+"Let them see you struggle. Sometimes seeing the process of how you get to an answer is more valuable that the answer itself."
+
+"Work on their computer if possible. Push past what they are comfortable doing. They can review the code later, and if they don't, well, that's on them."
+
+"Oh, by the way, these five lines of code with complicated looping logic and local variables, that should be a one liner. And four characters long."
+
+I put these (well, not the last one. I'm not that good yet) into practice with "Tom Holland":http://twitter.com/shockt88 literally five minutes later. Tom was working on processing a CSV file for his "Ruby class":https://groups.google.com/forum/?fromgroups#!forum/the_good_one with "Chad Pry":http://twitter.com/chadpry. We worked through the homework. I ended up taking the reigns and driving, because I wasn't sure how to do it, and needed to play around in irb to get the syntax right. After our session, I asked Tom for his feedback. The highlights:
+
+"I liked how you showed me more than one option of how to code it. That's really valuable I think."
+
+"The "awesome_print":https://github.com/michaeldv/awesome_print gem you showed me is, well, awesome"
+
+"I like how you jumped into IRB, started playing with things, then went to the documentation and started looking for something similar to what you wanted."
+
+"Seeing all the little keyboard shortcuts that I wouldn't find on my own so fast was great."
+
+"I like how you let me make errors first, then asked questions when I was stuck to help me think about the problem. That was great."
+
+Thanks for the feedback Tom!
+
+Then I went over to "Trunk Club":trunkclub.com to meet with John Tucker, who I met at Technori Pitch last week. We sat and talked about the business model, some of the challenges they are facing, and their growing pains. Then we wandered downstairs to visit the dev team. "Pat Carolan":http://twitter.com/pmcarolan, a fellow Code Academy student, was sitting there in the lobby. Turns out his mentor, Mike, works for Trunk Club.
+
+"Jean Bahnik":jeanbahnik.com, a Code Academy alum, now works at Trunk Club, and was getting an introduction to Cucumber and Rspec. I sat down and watched them go through it, and picked up a few tips on how to do it better. I met "Peter Harkins":http://twitter.com/pushcx from "DevMynd":devmynd.com, who is contracting for Trunk Club. He's an awesome pair, as "JC":http://twitter.com/thegrubbsian and "Brad":http://twitter.com/bwilken have extolled, who incidentally, I saw at the Ruby meetup after I left Trunk Club.
+
+Before leaving TC I thanked John, and also met another Mike, and Neil, and another dev, but very briefly, and it kills me that I've now forgotten his name. I'm usually really good with names. I've made the effort to get good at that, because the most important thing you can say to a person is 'Hey, I like you enough that I bothered to remember your name.' Many people don't do that. Shame really. It's the simple things.
+
+After TC I wandered over to the Chicago Ruby meetup at Thoughtworks, to hear about breaking apart your app and having the pieces talk to each other through an API. Didn't get so much out of that. Well, aside from free pizza and a cookie. Heading over to Elephant and Castle afterwards, I met "Ross Heflin":http://tablexi.com. His take on the industry after 5+ years in it (and 5 beers) was brutally honest. I think I said 5 words and he talked for 3 hours. Awesome, just the way I like it. If you're mouth is open, you probably aren't learning.
+
+Home by midnight, too jazzed to sleep. Up til 2am reading Clean Code and The Rspec Book. Up at 7am today to go to class and catch everything I missed yesterday. 
+
+Is this sustainable? Who knows? Until then:
+
+!/images/blog/do_all_the_things.jpg!

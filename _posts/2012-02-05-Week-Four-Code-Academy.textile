@@ -1,0 +1,9 @@
+---
+layout: post
+---
+
+Week Four saw me playing with an app that was assigned by our instructor, Jeff Cohen. The description of the app was:
+ 
+bq. Write an app to organize an intramural softball league for Chicago startups. Each team has up to 9 players. Teams have a company name as well as a nickname, and they also have a won-loss record. Players have a name and jersey number. Show the list of teams including their won-loss record; and clicking on a team should display the team’s name and roster of players.
+
+I decided to use that assignment to drive my learning for the week. By the end of the week I had managed to puzzle through all the models and relationships I needed for the database, put all those together, and get the app running. I also tinkered with some rails forms. Fun stuff.

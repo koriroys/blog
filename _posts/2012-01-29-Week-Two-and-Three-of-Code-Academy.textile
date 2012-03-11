@@ -1,0 +1,13 @@
+---
+layout: post
+---
+
+Week Two and Three of Code Academy
+
+These weeks brought new revelations. The most revealing, um, revelation: pairing with someone way more advanced than myself is the fastest and most fun way for me to learn something new. Plus I pick up lots of interesting tips and tricks I wouldn't find in a tutorial or a book. Related: pairing with someone not as advanced as myself is great because it forces me to explain concepts in simple terms, and if I can't do that, I know I need to review that concept.
+
+I paired with "Eric Meyer":http://www.8thlight.com/our-team/eric-meyer, "Josh Cheek":http://www.8thlight.com/our-team/josh-cheek, "Jon Buda":http://jonbuda.com/, all seriously inspiring developers that I hope to learn more from. I also paired with quite a few students here at "Code Academy":http://codeacademy.org/, including "Greg Cardoni":https://twitter.com/#!/cardoni and "Jaret Manuel":http://jaretmanuel.com/, both great guys and fun to pair with.
+
+I went to "8th Light U":http://university.8thlight.com/ two Fridays in a row. I feel smarter by years after listening to "Uncle Bob":http://www.8thlight.com/our-team/robert-martin speak about the Single Responsibility Principle for a little under an hour. He even supplied us with a "code sample":http://dl.dropbox.com/u/4730299/MasterMind.zip to study up on. I read most of it, though it is a bit of a foreign language to me.
+
+I look forward to week four of Code Academy, and meeting more interesting people in the Chicago tech community. So far it's been a warm welcome (well, for January in the Midwest), and I hope that trend continues.

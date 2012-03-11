@@ -1,0 +1,25 @@
+---
+layout: post
+---
+
+!/images/blog/dhh_tweets_you.png!
+
+OMFG! 250 page views! So exciting!
+
+Hmm, maybe I should dig deeper. Oh, yep, there it is. Avg time on site, 1.38 minutes.
+
+!/images/blog/dhh_tweets_you_2.png!
+
+But you know what Des McHale says about "averages":http://www.quotegarden.com/statistics.html.
+
+I dug a little deeper, and it looks as though somewhere between 10 and 15 people read all or most of the post:
+
+!/images/blog/dhh_tweets_you_3.png!
+
+Two valuable lessons from all this:
+
+1. Reflecting on your experiences is good. About 5% of those who view the post found it useful in some way, and those who didn't, bounced fast.
+
+2. It's easy to miss the metric that really matters. Dig deeper.
+
+Stories can be good to drive traffic, but have some other content that's actually helpful. Tutorials maybe? "Walkthroughs":http://koriroys.com/2012/02/21/Guard-Livereload.html? Links to my "sister's artwork":http://finefractals.com?
