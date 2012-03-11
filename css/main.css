@@ -1,0 +1,57 @@
+@charset "UTF-8"
+
+/* =main --------------*/
+
+body > * {
+  clear: both;
+  margin: 0 auto;
+  width: 700px;
+  
+}
+
+body {
+  margin: 20px;
+/*  color: #0F3;*/
+/*  background-color:#000;*/
+  font-family: sans-serif;
+}
+
+.container {
+  width: 800px;
+  margin: auto;
+}
+
+a:link {
+/*  color: #FF3;*/
+}
+
+.header {
+/*  background-color:#CFC;*/
+/*  border-top: 4px solid #ddd;*/
+  
+  
+}
+
+.main {
+  border-top: 4px solid #EEE;
+  border-bottom: 4px solid #EEE;
+}
+
+
+p {
+/*  font-size:2px;*/
+}
+
+.header {
+/*  float: right;*/
+}
+
+.nav li {
+  display: inline;
+  margin-right:2px;
+  
+}
+
+.footer {
+  padding-top: 10px;
+}

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<!-- 
+  _  _  __   __  _   __    __  _ _  __
+  |__/ |  | |__| |  |__|  |  | \./ |__
+  |  \ |__| |  \ |  |  \  |__|  |   __|
+
+  Why, hello there. If you're reading this, you're probably
+  a huge fucking nerd. But that's cool. I like nerds. Let's talk:
+  
+  [my_first_name]@koriroys.com
+  
+  -Kori
+
+ -->
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Raphaël · Image Rotation</title>
+    <!-- <link rel="stylesheet" href="demo.css" media="screen"> -->
+    <!-- <link rel="stylesheet" href="demo-print.css"media="print"> -->
+    <style type="text/css">
+      body {background-color:#CCC;}
+    </style>
+    <script src="utils/raphael.js"></script>
+    <script>
+      window.onload = function () {
+        var src = "../images/Kori_Roys.jpg";
+        var R = new Raphael(document.getElementById('holder'), 150, 150);  
+          
+        var rect = R.rect(0,0,150,150);
+        rect.attr({fill: "#000"});
+         
+        var img = R.image(src, 0, 0, 150, 150);
+        
+        var circle = R.circle(75, 75, 100);
+        circle.attr({ stroke: "#000", "stroke-width": 50, opacity: 1});
+        
+        var invisible_handler_circle = R.circle(75,75,75);
+        invisible_handler_circle.attr({ stroke: "#CCC", "stroke-width": 1, fill: "#000", opacity: .01});
+        
+        var circle_mouseover = function (event) {
+          img.stop().animate({x: 100} ,200, circle_mouseover_snapback);
+        };
+        
+        var circle_mouseover_snapback = function (event) {
+         img.stop().animate({x: 0}, 1500, "elastic");
+        };
+        
+        invisible_handler_circle.hover(circle_mouseover);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="holder"></div>
+    <div id="holder2"></div>
+    <div id="holder3"></div>
+    
+    <p>Mouse over the picture to see the special sauce! Just like on the 
+      <a href="http://kicksend.com/">Kicksend</a> site!</p>
+    <p id="copy">Made with <a href="http://raphaeljs.com/">Raphaël</a></p>
+  </body>
+</html>

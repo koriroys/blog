@@ -1,0 +1,70 @@
+---
+layout: default
+title: Faces
+---
+
+<!-- for filename in *.jpg; do echo \!/images/${filename}\(${filename/_/ }\)\!; done >> ~/Desktop/names.txt -->
+
+*Update (27 Jan 2012):* This project has moved and is now "a real rails app":http://cafaces2012.herokuapp.com. I'm leaving this page up as a judge of how far I make it in Code Academy.
+
+*Version 0.0.2:* PNG files converted to JPG files, all mugshots are now 250x250px (Thanks OSX Automator!). Resultant files sizes are now 90% smaller!
+
+*Version 0.0.1:* I plan to improve this rapidly, but I wanted to get something out there quick then iterate.
+
+*Instructions:* Try to guess who each Code Academy peep is, then mouse over their image to find out! (Hint, they are in alphabetical order. I know, so tough right?)
+
+!/images/Abhi_Pillai.jpg(Abhi Pillai)!
+!/images/Adam_Lupu.jpg(Adam Lupu)!
+!/images/Adam_Mark.jpg(Adam Mark)!
+!/images/Ansh_Day.jpg(Ansh Day)!
+!/images/Arvin_Dang.jpg(Arvin Dang)!
+!/images/Ben_Block.jpg(Ben Block)!
+!/images/Bryon_Finke.jpg(Bryon Finke)!
+!/images/Charlie_Thomason.jpg(Charlie Thomason)!
+!/images/Chiara_Piccionotti.jpg(Chiara Piccionotti)!
+!/images/Chris_Courtney.jpg(Chris Courtney)!
+!/images/Dan_Lavin.jpg(Dan Lavin)!
+!/images/Dave_Levine.jpg(Dave Levine)!
+!/images/David_Pardy.jpg(David Pardy)!
+!/images/Eric_MacAdie.jpg(Eric MacAdie)!
+!/images/Fabian_Jahr.jpg(Fabian Jahr)!
+!/images/Greg_Cardoni.jpg(Greg Cardoni)!
+!/images/Jaret_Manuel.jpg(Jaret Manuel)!
+!/images/Jeff_Ringgenberg.jpg(Jeff Ringgenberg)!
+!/images/Jerome_Manuel.jpg(Jerome Manuel)!
+!/images/Jim_Challenger.jpg(Jim Challenger)!
+!/images/Jimmy_Odom.jpg(Jimmy Odom)!
+!/images/John_Zurbach.jpg(John Zurbach)!
+!/images/Jordan_Dalton.jpg(Jordan Dalton)!
+!/images/Juan-Carlos_Lugo.jpg(Juan-Carlos Lugo)!
+!/images/Justin_Brown.jpg(Justin Brown)!
+!/images/Kathryn_Ironside.jpg(Kathryn Ironside)!
+!/images/Keith_Mackey.jpg(Keith Mackey)!
+!/images/Kelsey_Mok.jpg(Kelsey Mok)!
+!/images/Kevin_Hoffman.jpg(Kevin Hoffman)!
+!/images/Kori_Roys.jpg(Kori Roys)!
+!/images/Marcel_Munoz.jpg(Marcel Munoz)!
+!/images/Matthew_Krisiloff.jpg(Matthew Krisiloff)!
+!/images/Nate_Kroll.jpg(Nate Kroll)!
+!/images/Nate_Lassiter.jpg(Nate Lassiter)!
+!/images/Nick_Shank.jpg(Nick Shank)!
+!/images/Patrick_Carolan.jpg(Patrick Carolan)!
+!/images/Peter_Jabbour.jpg(Peter Jabbour)!
+!/images/Robert_Milner.jpg(Robert Milner)!
+!/images/Robert_Stevenson.jpg(Robert Stevenson)!
+!/images/Ryan_Coon.jpg(Ryan Coon)!
+!/images/Ryan_Curtin.jpg(Ryan Curtin)!
+!/images/Ryan_Verner.jpg(Ryan Verner)!
+!/images/Shirlee_Berman.jpg(Shirlee Berman)!
+!/images/Spence_Davenport.jpg(Spence Davenport)!
+!/images/Steve_Benjamins.jpg(Steve Benjamins)!
+!/images/Trey_Springer.jpg(Trey Springer)!
+!/images/Tim_O'Meara.jpg(Tim O'Meara)!
+!/images/Tom_Holland.jpg(Tom Holland)!
+!/images/Tomas_Ordonez.jpg(Tomas Ordoñez)!
+!/images/Tracy_Lucas.jpg(Tracy Lucas)!
+!/images/Travis_Fonvielle.jpg(Travis Fonvielle)!
+!/images/Zeh_Xing_Xiong.jpg(Zeh Xing Xiong)!
+
+<!-- Hello
+<p>Hello?!?</p> -->
