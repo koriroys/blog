@@ -6,4 +6,4 @@ This site/blog look absolutely horrible. Partially because I have no clue how to
 
 I figured out how to host a site on github a few weeks back, but decided that with "Code Academy":http://www.codeacademy.org looming near, I wanted a place where I could blog. But I wanted to build the blog myself. Since I have not built much of anything (useful) before, the going is pretty slow. But each little victory makes the glacial pace worth it. I figure just hack something together, learn a bunch, then do it right (and 90% faster) then second time around.
 
-A few details about the site: This is a site hosted by "Github Pages":http://pages.github.com. When I push to github it is run through Jekykll, and a static site gets spit out the other end. I am oversimplifying I know, but so far that is my understanding of it.
+A few details about the site: This is a site hosted by "Github Pages":http://pages.github.com. When I push to github it is run through Jekyll, and a static site gets spit out the other end. I am oversimplifying I know, but so far that is my understanding of it.
