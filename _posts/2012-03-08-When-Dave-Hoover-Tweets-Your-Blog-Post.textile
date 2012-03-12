@@ -23,3 +23,4 @@ Two valuable lessons from all this:
 2. It's easy to miss the metric that really matters. Dig deeper.
 
 Stories can be good to drive traffic, but have some other content that's actually helpful. Tutorials maybe? "Walkthroughs":http://koriroys.com/2012/02/21/Guard-Livereload.html? Links to my "sister's artwork":http://finefractals.com?
+

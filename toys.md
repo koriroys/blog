@@ -1,6 +1,6 @@
 ---
-layout: default
-title: My projects
+layout: page
+title: Breakable Toys
 class: projects
 ---
 

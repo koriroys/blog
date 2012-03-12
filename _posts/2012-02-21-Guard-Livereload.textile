@@ -16,22 +16,26 @@ The next phase is to get livereload working with your rails app.
 
 You will want edit your Gemfile to have this line:
 
-*gem 'guard-livereload'*
+{% highlight ruby %}
+gem 'guard-livereload'
+{% endhighlight %}
 
 then in the terminal run:
 
-*$ bundle install*
-
-When that finishes, type this into the terminal:
-
-*$ guard init livereload*
+{% highlight ruby %}
+$ bundle install
+$ guard init livereload
+{% endhighlight %}
 
 This will create a Guardfile in your rails dir if you don't already have one, or edit it if you do.
 
-Then, to run guard with your new settings, in the console you'd type:
+Then, to run guard with your new settings, in the terminal:
 
-*$ guard*
+{% highlight ruby %}
+$ guard
+{% endhighlight %}
+
 
 Note: you may have to type in 'bundle exec guard'.
 
-That's it. Try it out! Not having to remember to hit refresh is not game-changing, but it makes the loop between what I code and what I see just that tiny bit smaller. So I can hold out until "this stuff is deployed":http://vimeo.com/36579366
+That's it. Try it out! Not having to remember to hit refresh is not game-changing, but it makes the loop between what I code and what I see just that tiny bit smaller. So I can hold out until "this stuff is deployed":http://vimeo.com/36579366.
