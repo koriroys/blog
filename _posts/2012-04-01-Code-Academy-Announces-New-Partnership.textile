@@ -1,0 +1,18 @@
+---
+layout: post
+---
+
+On Wednesday, March 28th, 2012, Code Academy celebrated the completion of its second round of classes with another "Demo Day":http://gathers.us/events/passion-and-persistence-code-academy-demo-day. Over 500 people RSVPed, and almost 50 of those actually saw a presentation! I saw a bunch of the presentations, and even managed to give one myself, but did not manage to grab a beer before the six-pack they bought ran out. Better luck next time...
+
+While Demo Day did not quench my thirst for alcohol, it did allow the current crop of Code Academy students to show off what they've been working on, and also allowed the Code Academy staff to announce some fantastic news:
+
+1. Code Academy has been acquired by Groupon, and all students accepted into the program will be offered full time jobs as developers upon graduation. Alumni of the program will be likewise be extended offers.
+2. With this strategic move, Groupon has realized that the name Code Academy is too long and confusing, and has changed the name to Codecademy.
+3. Classes will no longer focus on Ruby on Rails, but instead will be completely devoted to JavaScript.
+4. Classes will no longer be held in Chicago, but rather will be conducted completely online.
+
+Neal Sales-Griffin, co-founder of -Code Academy- Codecademy, had this to say: "I for one am ecstatic about this move. It gives me more time to focus on what's important. Naps. Oh, and email."
+
+It's not all "roses and daffodils":http://pandodaily.com/2012/03/18/the-midwest-mentality/ in the Chicago tech scene however. -Code Academy- Codecademy Lead Mentor "Dave Hoover":https://twitter.com/redsquirrel, had this to say: "Bought out again? Man, f***."
+
+As it turns out, the joke is actually on Groupon. While Groupon was busy acquiring -Code Academy- Codecademy, -Code Academy- Codecademy acquired a "90% share of Groupon's design talent":http://codeacademy.org/programs#html-css. Who's laughing now?
