@@ -1,0 +1,23 @@
+---
+layout: post
+---
+
+It's been two months since I last posted, so here's an update. I graduated "Code Academy":http://codeacademy.org and joined the team over at "DevMynd":http://devmynd.com. My goal in going to Code Academy was to become a developer full-time, and while I am in fact closer to that goal, I wouldn't call myself a developer just yet. What I would call myself is an apprentice.
+
+Now, there has been a lot of noise/hubbub surrounding software apprenticeship in recent years. Long before jumping into it myself, I read "Colin Jones' blog about it":http://softwareapprenticeship.wordpress.com/, and during Code Academy, "Dave Hoover's book about it":http://shop.oreilly.com/product/9780596518387.do (there's a link to read it free online, but I highly recommend buying a paper copy). These offered me two takes on apprenticeship as it relates to software. I've found the first to be useful as a measuring stick of my own progress, and the second as a guide with all the things I need to do/remember in order to be successful.
+
+Now, to be quite honest, I'm one of the lucky few Code Academy graduates. I haven't seen any numbers, but if I had to guess, the percentage of students leaving CA and finding software jobs (that want one) probably hovers around 20-30%, if it's that high. And that is heavily affected by what those students already know going in. CA helped me get to where I am now, and for that I'm grateful. But it's not the place to go if you actually want to get in to software development. At least not in it's current form (here's hoping that changes).
+
+As one of those lucky few CA grads, I chanced into more or less the perfect environment to learn software development. I'm one of seven at DevMynd, and I've been building software for less than six months. They've all been doing it for at _least_ 10 years, most of them significantly longer. However, every single one of them will happily answer my questions (and yes, I have a lot of questions).
+
+I started here at DevMynd on April 9th. So what have I learned in three months? In one word, testing. We are an agile shop, which means we TDD the shit out of our software. Untested code doesn't warrant a second glance, as I learned on my first pull request (JC's comment was simply: where are your tests?). My goal before my apprenticeship officially ends and they give me the ol' thumbs up/thumbs down is to submit code that JC doesn't look at and say 'well, not bad, but I'd probably do it this way...'
+
+One day, perhaps...
+
+Till then:
+
+{% highlight ruby %}
+def silly
+  puts "Whee!!!"
+end
+{% endhighlight %}
