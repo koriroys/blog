@@ -19,7 +19,7 @@ Prerequisites:
     
 Ok, first step, we'll make a new Rails project:
 
-    rails new github_auth static_pages --skip-bundle -T
+    rails new github_auth --skip-bundle -T
     cd github_auth
     rm public/index.html
     rm app/assets/images/rails.png
@@ -68,7 +68,7 @@ and finally:
     git commit -m "I'M PAR TY ING"
 
 <div id='failing'></div>
-## The Failing Test
+## [The Failing Test](#failing)
 
 Ok, let's do this right. Let's write a failing test to guide our development.
 
@@ -114,7 +114,9 @@ Now our test should give a new error:
 which we fix by creating the file ```app/controllers/static_pages_controller.rb``` and putting this in it:
 
 {% highlight ruby %}
-class StaticPagesController < ApplicationController; end
+class StaticPagesController < ApplicationController
+
+end
 {% endhighlight %}
 
 which gets us past our current failure. Our new error is:
@@ -125,9 +127,9 @@ Let's fix that shall we? Update ```app/controllers/static_pages_controller.rb```
 
 {% highlight ruby %}
 class StaticPagesController < ApplicationController
-    def index
+  def index
         
-    end
+  end
 end
 {% endhighlight %}
 
@@ -153,7 +155,7 @@ Now at this point, if you re-run the tests, the last failure is:
     Failure/Error: expect(page).to have_content 'Logged in Successfully'
            expected there to be content "Logged in Successfully" in "GithubAuth\n\nLogin with Github\n\n\n"
            
-We could cheat here, and just add the content ```Logged in Successfully``` to the page and be done with this spec, but that doesn't actually get us logged in with Github. So let's login with Github
+We could cheat here, and just add the content ```Logged in Successfully``` to the page and be done with this spec, but that doesn't actually get us logged in with Github. So let's login with Github.
 
 <div id='gh_auth'></div>
 
