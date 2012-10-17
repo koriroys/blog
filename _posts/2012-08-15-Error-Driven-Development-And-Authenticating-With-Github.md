@@ -277,7 +277,7 @@ end
 
 Now our tests will still fail at this point, because we aren't actually rendering the flash in our view. To render the flash in the view, change ```app/views/static_pages/index.html.erb``` to look like this:
 
-{% highlight ruby %}
+{% highlight erb %}
 <%= flash[:notice] if flash[:notice] %>
 <%= link_to 'Login with Github', github_auth_path %>
 {% endhighlight %}
