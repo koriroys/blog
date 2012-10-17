@@ -275,6 +275,13 @@ class SessionsController < ApplicationController
 end
 {% endhighlight %}
 
+Now our tests will still fail at this point, because we aren't actually rendering the flash in our view. To render the flash in the view, change ```app/views/static_pages/index.html.erb``` to look like this:
+
+```ruby
+<%= flash[:notice] if flash[:notice] %>
+<%= link_to 'Login with Github', github_auth_path %>
+```
+
 BOOM! Our test passes!
 
 Unfortunately, we can't logout. This seems like a bit of an oversight on our part. Let's fix that, shall we?
