@@ -372,6 +372,8 @@ P.S. This isn't really TDD, it's more EDD, or Error Driven Development, with jus
 
 P.S.S. I left out the ENV variable assignment for the github key and secret. Pshh, you only need those if you plan to deploy your app to a production environment, and who wants to do that???
 
+Update: [setting your ENV variables](http://koriroys.com/2012/10/16/Env-Variables-And-Production-Ready-With-Github-Auth)
+
 P.S.S.S If you want to see what the github session info looks like, add this to ```app/views/static_pages/index.html.erb```:
 
 {% highlight ruby %}
