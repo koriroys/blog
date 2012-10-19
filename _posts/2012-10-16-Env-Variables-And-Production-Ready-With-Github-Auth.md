@@ -6,14 +6,14 @@ Prerequisite:
 
 You've completed my [Error Driven Development](http://koriroys.com/2012/08/15/Error-Driven-Development-And-Authenticating-With-Github/) post.
 
-Ok, so your github auth is working in development and test, becuase we
+Ok, so your github auth is working in development and test, because we
 turned test mode on for development and test. Great. Now let's say you
 want to see if you can authenticate for real with Github. Well, let's get
 to it.
     
 First let's turn off Omniauth test mode in development. Remember that line
 you added to ```config/environments/development.rb```? No, well, here it
-is to refresh your memomry:
+is to refresh your memory:
 
 {% highlight ruby %}
 OmniAuth.config.test_mode = true

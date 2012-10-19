@@ -308,7 +308,7 @@ Running the tests we see that Rspec is not very happy:
     Capybara::ElementNotFound:
            no link with title, id or text 'Logout' found
 
-How do we appease the Rspec? Well, it would make sense to have a 'Logout' link when we are logged in, wouldn't it? Let's add one. Add the following to ```app/view/static_pages/index.html.erb```:
+How do we appease the Rspec? Well, it would make sense to have a 'Logout' link when we are logged in, wouldn't it? Let's add one. Add the following to ```app/views/static_pages/index.html.erb```:
 
 {% highlight ruby %}
 <%= link_to 'Logout' %>
@@ -319,7 +319,7 @@ We get the following error:
     Failure/Error: expect(page).to have_content 'Logged out Successfully'
            expected there to be content "Logged out Successfully" in "GithubAuth\n\nLogin with Github\nLogout\n\n\n"
 
-We can fix this trivially, but let's have a little more fun. Edit the line we just added to ```app/view/static_pages/index.html.erb``` to this:
+We can fix this trivially, but let's have a little more fun. Edit the line we just added to ```app/views/static_pages/index.html.erb``` to this:
 
 {% highlight ruby %}
 <%= link_to 'Logout', logout_path %>
@@ -370,11 +370,11 @@ Now it doesn't make much sense to show a login AND logout link at the same time,
 
 P.S. This isn't really TDD, it's more EDD, or Error Driven Development, with just enough of a smoke test to keep me honest. I use the errors as a check list to keep me on task, since I tend to have trouble focusing for long stretches of time. Feedback welcome!
 
-P.S.S. I left out the ENV variable assignment for the github key and secret. Pshh, you only need those if you plan to deploy your app to a production environment, and who wants to do that???
+P.P.S. I left out the ENV variable assignment for the github key and secret. Pshh, you only need those if you plan to deploy your app to a production environment, and who wants to do that???
 
 Update: [setting your ENV variables](http://koriroys.com/2012/10/16/Env-Variables-And-Production-Ready-With-Github-Auth)
 
-P.S.S.S If you want to see what the github session info looks like, add this to ```app/views/static_pages/index.html.erb```:
+P.P.P.S If you want to see what the github session info looks like, add this to ```app/views/static_pages/index.html.erb```:
 
 {% highlight ruby %}
 <p>
